@@ -1,4 +1,4 @@
 You Need to this ASAP:
-- Understand and Implement the use of integration of Git & GitHub
-- Create Portfolio for Power Automate, Manual Testing, and Automation Testing
-- Find Side Hustle
+- Understand and Implement the use of integration of Git & GitHub                (InProgress)
+- Create Portfolio for Power Automate, Manual Testing, and Automation Testing    (InProgress)
+- Find Side Hustle                                                               (InProgress)
