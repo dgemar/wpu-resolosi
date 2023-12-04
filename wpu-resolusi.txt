@@ -1,4 +1,8 @@
 You Need to this ASAP:
-1. Understand and Implement the use of integration of Git & GitHub                
+1. Understand and Implement the use of integration of Git & GitHub
+Steps:
+- Finish the learning video
+- Implement the knowledge
+- Finalization
 2. Create Portfolio for Power Automate, Manual Testing, and Automation Testing    
 3. Find Side Hustle                                                               
