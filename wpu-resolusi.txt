@@ -4,7 +4,10 @@ Steps:
 - Finish the learning video
 - Implement the knowledge
 - Finalization
-2. Create Portfolio for Power Automate, Manual Testing, and Automation Testing    
+2. Create Portfolio for Power Automate, Manual Testing, and Automation Testing
+- Research portfolio that can be used
+- Create the portfolio
+- Evaluate
 3. Find Side Hustle
 - Complete the portfolio
 - Complete upwork profile
